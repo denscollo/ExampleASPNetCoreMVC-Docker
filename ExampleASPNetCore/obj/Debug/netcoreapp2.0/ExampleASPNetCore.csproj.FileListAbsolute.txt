@@ -1,0 +1,11 @@
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\bin\Debug\netcoreapp2.0\ExampleASPNetCore.deps.json
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\bin\Debug\netcoreapp2.0\ExampleASPNetCore.runtimeconfig.json
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\bin\Debug\netcoreapp2.0\ExampleASPNetCore.runtimeconfig.dev.json
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\bin\Debug\netcoreapp2.0\ExampleASPNetCore.dll
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\bin\Debug\netcoreapp2.0\ExampleASPNetCore.pdb
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.csprojResolveAssemblyReference.cache
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.csproj.CoreCompileInputs.cache
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.AssemblyInfoInputs.cache
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.AssemblyInfo.cs
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.dll
+C:\Users\damiusen\Desktop\ExampleASPNetCore\ExampleASPNetCore\obj\Debug\netcoreapp2.0\ExampleASPNetCore.pdb
